@@ -17,7 +17,6 @@ class SplashActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         },DURATION)
-
     }
     companion object {
         private const val DURATION : Long = 2000
