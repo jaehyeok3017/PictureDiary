@@ -1,7 +1,9 @@
 package com.example.picturediary.makeDiary
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.picturediary.MainActivity
 import com.example.picturediary.R
 import com.example.picturediary.databinding.ActivityMakeDiaryBinding
 
@@ -23,6 +25,7 @@ class MakeDiaryActivity : AppCompatActivity() {
         when(int){
             1->transaction.replace(R.id.container, WritingFragment())
             2->transaction.replace(R.id.container, SharingFragment())
+            3->startActivity(Intent(this, MainActivity::class.java))
         }
         transaction.commit()
     }
