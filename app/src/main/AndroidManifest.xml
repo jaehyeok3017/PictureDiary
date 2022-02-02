@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PictureDiary">
         <activity
-            android:name=".MakeDiaryActivity"
+            android:name=".makeDiary.MakeDiaryActivity"
             android:exported="false" />
         <activity
             android:name=".WelcomeActivity"
