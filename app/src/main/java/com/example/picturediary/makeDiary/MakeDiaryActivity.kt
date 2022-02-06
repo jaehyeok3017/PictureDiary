@@ -6,6 +6,7 @@ import android.os.Bundle
 import com.example.picturediary.MainActivity
 import com.example.picturediary.R
 import com.example.picturediary.databinding.ActivityMakeDiaryBinding
+import com.example.picturediary.makeDiary.Drawing.DrawingFragment
 
 class MakeDiaryActivity : AppCompatActivity() {
 
