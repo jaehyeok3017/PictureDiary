@@ -13,7 +13,7 @@
             android:name=".makeDiary.MakeDiaryActivity"
             android:exported="false" />
         <activity
-            android:name=".WelcomeActivity"
+            android:name=".welcomePage.WelcomeActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
