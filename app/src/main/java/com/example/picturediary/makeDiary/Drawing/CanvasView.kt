@@ -16,7 +16,6 @@ class CanvasView(internal var context: Context, attrs:AttributeSet?) : View(cont
 
     init {
         mPaint.isAntiAlias = true
-        mPaint.color = Color.rgb(255,0,216)
         mPaint.style = Paint.Style.STROKE
         mPaint.strokeJoin = Paint.Join.ROUND
         mPaint.strokeWidth = 4f
@@ -78,6 +77,10 @@ class CanvasView(internal var context: Context, attrs:AttributeSet?) : View(cont
         }
 
         return true
+    }
+
+    fun setColor(red:Int,green:Int,blue:Int){
+        mPaint.color = Color.rgb(red,green, blue)
     }
 
     companion object{

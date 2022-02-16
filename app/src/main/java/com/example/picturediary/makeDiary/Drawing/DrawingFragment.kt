@@ -30,6 +30,10 @@ class DrawingFragment : Fragment() {
         binding.drawingNxtBtn.setOnClickListener {
             makeDiaryActivity!!.openFragmentOnFrameLayout(1)
         }
+        binding.colorRed.setOnClickListener { canvasView.setColor(255,0,0) }
+        binding.colorBlue.setOnClickListener { canvasView.setColor(0,0,255) }
+        binding.colorGreen.setOnClickListener { canvasView.setColor(0,255,0) }
+
         return binding.root
     }
 

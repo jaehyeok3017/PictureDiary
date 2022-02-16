@@ -3,18 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/drawable/welcome_indicator.xml" value="0.1535" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/activity_welcome.xml" value="0.14345991561181434" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_welcome1.xml" value="0.1" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_welcome2.xml" value="0.1" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_welcome3.xml" value="0.1" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_writing.xml" value="0.3421875" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/drawable/color_blue.xml" value="0.1335" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/drawable/color_red.xml" value="0.1335" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/drawable/welcome_indicator.xml" value="0.1335" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/drawable/welcome_whiteindicator.xml" value="0.1335" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/activity_make_diary.xml" value="0.1" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/activity_splash.xml" value="0.3359375" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/activity_welcome.xml" value="0.3359375" />
-        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_drawing.xml" value="0.3359375" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_drawing.xml" value="0.25" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_share.xml" value="0.3359375" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_welcome1.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_welcome2.xml" value="0.2644927536231884" />
         <entry key="..\:/Users/zappe/AndroidStudioProjects/PictureDiary/app/src/main/res/layout/fragment_writing.xml" value="0.3359375" />
       </map>
     </option>
