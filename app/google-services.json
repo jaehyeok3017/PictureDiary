@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355424072204",
+    "project_id": "picturediary-6c57f",
+    "storage_bucket": "picturediary-6c57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355424072204:android:182ef4c49c555dae56b429",
+        "android_client_info": {
+          "package_name": "com.example.picturediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355424072204-1tnlmc1rcova64pund56vivrls9tnm56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIhfF4iHsGRnRIRMD_nSu3IBHyugypjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355424072204-1tnlmc1rcova64pund56vivrls9tnm56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

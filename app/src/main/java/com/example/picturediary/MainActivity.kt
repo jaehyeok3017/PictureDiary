@@ -20,10 +20,6 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        /*binding.mainRecyclerView.setOnClickListener {
-            // 화면 전환 (어떻게 할 지 모르겠어서 임시로 비워둠)
-        }*/
-
         var SharedPreferences = getSharedPreferences("welcomeViewWatched", Activity.MODE_PRIVATE)
         var checkSharedPreferences = SharedPreferences.getBoolean("welcomeViewWatched", false)
 

@@ -6,10 +6,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".makeDiary.WritingFragment">
 
-    <TextView
+    <EditText
+        android:id="@+id/writingEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is Writing Fragment"
+        android:hint="This is Writing Fragment"
         android:textSize="30sp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
